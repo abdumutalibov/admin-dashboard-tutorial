@@ -50,7 +50,22 @@ export const userData = [
   
   ];
 
- export const userRows = [
+export const productData = [
+    {
+        name: "Jan",
+        "Sales": 4000,
+      },
+      {
+        name: "Feb",
+        "Sales": 3000,
+      },
+      {
+        name: "Mar",
+        "Sales": 5000,
+      },
+    ]
+
+  export const userRows = [
     {
       id: 1,
       username: "Jon Snow",
@@ -140,5 +155,98 @@ export const userData = [
       email: "hon@gmail.com",
       status: "active",
       transaction: "$120.00",
+    },
+  ];
+
+  export const productRows = [
+    {
+      id: 1,
+      name: "Jon Snow",
+      img:
+        "https://www.goodmorningimageshddownload.com/wp-content/uploads/2020/07/Nice-Whatsapp-DP-Images-9.jpg",
+      stock: 123,
+      status: "active",
+      price: "$120.00",
+    },
+    {
+      id: 2,
+      name: "Jon Snow",
+      img:
+        "https://www.goodmorningimageshddownload.com/wp-content/uploads/2020/07/Nice-Whatsapp-DP-Images-9.jpg",
+      stock: 123,
+      status: "active",
+      price: "$120.00",
+    },
+    {
+      id: 3,
+      name: "Jon Snow",
+      img:
+        "https://www.goodmorningimageshddownload.com/wp-content/uploads/2020/07/Nice-Whatsapp-DP-Images-9.jpg",
+      stock: 123,
+      status: "active",
+      price: "$120.00",
+    },
+    {
+      id: 4,
+      name: "Jon Snow",
+      img:
+        "https://www.goodmorningimageshddownload.com/wp-content/uploads/2020/07/Nice-Whatsapp-DP-Images-9.jpg",
+      stock: 123,
+      status: "active",
+      price: "$120.00",
+    },
+    {
+      id: 5,
+      name: "Jon Snow",
+      img:
+        "https://www.goodmorningimageshddownload.com/wp-content/uploads/2020/07/Nice-Whatsapp-DP-Images-9.jpg",
+      stock: 123,
+      status: "active",
+      price: "$120.00",
+    },
+    {
+      id: 6,
+      name: "Jon Snow",
+      img:
+        "https://www.goodmorningimageshddownload.com/wp-content/uploads/2020/07/Nice-Whatsapp-DP-Images-9.jpg",
+      stock: 123,
+      status: "active",
+      price: "$120.00",
+    },
+    {
+      id: 7,
+      name: "Jon Snow",
+      img:
+        "https://www.goodmorningimageshddownload.com/wp-content/uploads/2020/07/Nice-Whatsapp-DP-Images-9.jpg",
+      stock: 123,
+      status: "active",
+      price: "$120.00",
+    },
+    {
+      id: 8,
+      name: "Jon Snow",
+      img:
+        "https://www.goodmorningimageshddownload.com/wp-content/uploads/2020/07/Nice-Whatsapp-DP-Images-9.jpg",
+      stock: 123,
+      status: "active",
+      price: "$120.00",
+    },
+    {
+      id: 9,
+      name: "Jon Snow",
+      img:
+        "https://www.goodmorningimageshddownload.com/wp-content/uploads/2020/07/Nice-Whatsapp-DP-Images-9.jpg",
+      stock: 123,
+      status: "active",
+      price: "$120.00",
+    },
+    {
+      id: 10,
+      name: "Jon Snow",
+      img:
+        "https://www.goodmorningimageshddownload.com/wp-content/uploads/2020/07/Nice-Whatsapp-DP-Images-9.jpg",
+      stock: 123,
+      status: "active",
+      price: "$120.00",
     },
   ];
