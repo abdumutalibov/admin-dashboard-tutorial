@@ -224,7 +224,7 @@ export const productData = [
     },
     {
       id: 8,
-      name: "Jon Snow",
+      name: "Jonee Snow",
       img:
         "https://www.goodmorningimageshddownload.com/wp-content/uploads/2020/07/Nice-Whatsapp-DP-Images-9.jpg",
       stock: 123,

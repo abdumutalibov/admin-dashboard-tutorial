@@ -50,6 +50,7 @@ export default function UserList() {
               className="userListDelete"
               onClick={() => handleDelete(params.row.id)}
             />
+            
           </>
         );
       },
